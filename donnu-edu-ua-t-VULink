@@ -1,0 +1,556 @@
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#">
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Wilfred recommends the worlds largest &amp; fastest growing Link Cloaker, Shortener &amp; List Builder... ViralURL.com</title>
+	<script src="../aceadmin/assets/js/jquery.min.js"></script>
+	<script async src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+	<style type="text/css">
+@font-face{
+	font-family:'New-Cicle-Semi';
+	src:url('../index3/font/NewCicle/New-Cicle-Semi.ttf.woff') format("woff"),
+		url('../index3/font/NewCicle/New-Cicle-Semi.ttf.svg#New-Cicle-Semi') format("svg"),
+		url('../index3/font/NewCicle/New-Cicle-Semi.ttf.eot'),
+		url('../index3/font/NewCicle/New-Cicle-Semi.eot?#iefix') format("embedded-opentype");
+	font-weight:400;
+	font-style:normal
+}
+@font-face{
+	font-family:'TitilliumText25L600wt';
+	src:url('../index3/font/titillium/TitilliumText25L002-webfont.eot');
+	src:url('../index3/font/titillium/TitilliumText25L002-webfont.eot?#iefix') format("embedded-opentype"),
+		url('../index3/font/titillium/TitilliumText25L002-webfont.woff') format("woff"),
+		url('../index3/font/titillium/TitilliumText25L002-webfont.ttf') format("truetype"),
+		url('../index3/font/titillium/TitilliumText25L002-webfont.svg#TitilliumText25L600wt') format("svg");
+	font-weight:400;
+	font-style:normal
+}
+@font-face{
+	font-family:'TitilliumText25L400wt';
+	src:url('../index3/font/titillium/TitilliumText25L003-webfont.eot');
+	src:url('../index3/font/titillium/TitilliumText25L003-webfont.eot?#iefix') format("embedded-opentype"),
+		url('../index3/font/titillium/TitilliumText25L003-webfont.woff') format("woff"),
+		url('../index3/font/titillium/TitilliumText25L003-webfont.ttf') format("truetype"),
+		url('../index3/font/titillium/TitilliumText25L003-webfont.svg#TitilliumText25L400wt') format("svg");
+	font-weight:400;
+	font-style:normal
+}
+@font-face{
+	font-family:'TitilliumText25L1wt';
+	src:url('../index3/font/titillium/TitilliumText25L005-webfont.eot');
+	src:url('../index3/font/titillium/TitilliumText25L005-webfont.eot?#iefix') format("embedded-opentype"),
+		url('../index3/font/titillium/TitilliumText25L005-webfont.woff') format("woff"),
+		url('../index3/font/titillium/TitilliumText25L005-webfont.ttf') format("truetype"),
+		url('../index3/font/titillium/TitilliumText25L005-webfont.svg#TitilliumText25L1wt') format("svg");
+	font-weight:400;
+	font-style:normal}
+@font-face{
+	font-family:'BebasNeueRegular';
+	src:url('../index3/font/bebas/BebasNeue-webfont.eot');
+	src:url('../index3/font/bebas/BebasNeue-webfont.eot?#iefix') format("embedded-opentype"),
+		url('../index3/font/bebas/BebasNeue-webfont.woff') format("woff"),
+		url('../index3/font/bebas/BebasNeue-webfont.ttf') format("truetype"),
+		url('../index3/font/bebas/BebasNeue-webfont.svg#BebasNeueRegular') format("svg");
+	font-weight:400;
+	font-style:normal}
+@font-face{
+	font-family:'New Cicle Fina';
+	src:local('New Cicle Fina'),
+		url('../index3/font/new-cicle-fina/New Cicle Fina.woff') format("woff");
+	font-weight:400;
+	font-style:normal
+}
+@font-face{
+	font-family:'Glyphicons Halflings';
+	src:url('../aceadmin/assets/fonts/glyphicons-halflings-regular.eot');
+	src:url('../aceadmin/assets/fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'),
+		url('../aceadmin/assets/fonts/glyphicons-halflings-regular.woff') format('woff'),
+		url('../aceadmin/assets/fonts/glyphicons-halflings-regular.ttf') format('truetype'),
+		url('../aceadmin/assets/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg')
+}
+.modal iframe {
+	background-image: url("../images/loading.gif");
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	background-size: contain;
+}
+	</style>
+	<link href="../css/complete.min.css" rel="stylesheet" type="text/css" />
+</head>
+<body id="vbmBody">
+	<div class="logincontainer">
+		<div class="content">
+			<div class="section group">
+				<div class="col span_1_of_1">
+					<ul id="top_nav">
+						<div class="logo" style="white-space:nowrap"><a href="https://viralurl.com"><img src="../index3/images/v3/ViralUrl-Logo-v3.png" style="position:relative;z-index:1000"></a><span class="version">3.10.000</span><span class="updated">Updated for 2021</span></div>
+						<li><a href="#myModal" data-toggle="modal" onClick="$('#register-iframe').attr('src','https://viralurl.com/register.php');">Register</a></li>
+						<li><a href="https://viralurl.com/login.php">Login</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="content" id="topContent">
+			<div class="section group">
+				<div class="col span_1_of_2">
+					<div id="heading">
+						<h6 class="wow bounceInDown" style="color:#444444"><span style="text-transform:capitalize">Wilfred</span> recommends...</h6>
+						<h1 class="wow bounceInDown"><script type="text/javascript">
+var headlineVersion = 1;
+if (headlineVersion == 2) {
+	document.write('"Join the <span style="color:#f4d03f;">300,133 Users</span> That Signed Up Since 2007 And Earn an <span style="color:#f4d03f;">Instant Income</span>, Shorten, Track, Cloak And List Build <span style="color:#f4d03f;">100% on Autopilot!</span> Get Your Very Own <span style="color:#f4d03f;">Supercharged</span> ViralURL... <span style="color:#f4d03f;">FREE!</span>"');
+} else {
+	document.write('"Join the <span style="color:#f4d03f;">14,869 Members</span> That Already Earn an <span style="color:#f4d03f;">Instant Income</span>, Shorten, Track, Cloak And List Build <span style="color:#f4d03f;">100% on Autopilot!</span> Get Your Very Own <span style="color:#f4d03f;">Supercharged</span> ViralURL... <span style="color:#f4d03f;">FREE!</span>"');
+}
+</script></h1>
+					</div>
+				</div>
+				<div class="col span_2_of_2">
+					<div id="mainvideo">
+						<div class="video-container wow bounceInUp">
+							<iframe src="//player.vimeo.com/video/298828048?autoplay=1&loop=1&title=0&byline=0&portrait=0" frameborder="0" webkitallow="autoplay; encrypted-media" mozallow="autoplay; encrypted-media" allow="autoplay; encrypted-media" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no" style="max-width:100%"></iframe>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="formcontainer">
+		<div class="content">
+			<div class="section group">
+				<div class="col span_2_of_3">
+					<h1 href="#myModal" data-toggle="modal" onClick="$('#register-iframe').attr('src','https://viralurl.com/register.php');" class="wow bounceInLeft">GET STARTED TODAY</h1>
+					<div class="button wow bounceInRight" href="#myModal" data-toggle="modal" onClick="$('#register-iframe').attr('src','https://viralurl.com/register.php');">
+						<a class="btn-leadstyle-link" style="text-decoration:initial">Click Here To Join Free</a>
+					</div>
+				</div>
+				<div class="col span_1_of_3 wow rotateInDownRight">
+					<div class="lock">
+						<img src="../index3/images/v3/lock.png">
+					</div>
+					<div class="sec">
+						<table><tbody><tr>
+							<td><a name="trustlink" style="margin:1px 1px 1px 2px" href="http://secure.trust-guard.com/security/652" rel="nofollow" target="_blank" onClick="var nonwin=navigator.appName!='Microsoft Internet Explorer'?'yes':'no'; window.open(this.href.replace(/https?/, 'https'),'welcome','location='+nonwin+',scrollbars=yes,width=517,height='+screen.availHeight+',menubar=no,toolbar=no'); return false;" oncontextmenu="var d = new Date(); alert('Copying Prohibited by Law - This image and all included logos are copyrighted by trust-guard \251 '+d.getFullYear()+'.'); return false;"><img width="100" height="40" name="trustseal" alt="Security Seals" style="border: 0;" src="//dw26xg4lubooo.cloudfront.net/seals/security/652-mini.gif"></a></td>
+							<td><a name="trustlink" style="margin:1px" href="http://secure.trust-guard.com/privacy/652" rel="nofollow" target="_blank" onClick="var nonwin=navigator.appName!='Microsoft Internet Explorer'?'yes':'no'; window.open(this.href.replace(/https?/, 'https'),'welcome','location='+nonwin+',scrollbars=yes,width=517,height='+screen.availHeight+',menubar=no,toolbar=no'); return false;" oncontextmenu="var d = new Date(); alert('Copying Prohibited by Law - This image and all included logos are copyrighted by trust-guard \251 '+d.getFullYear()+'.'); return false;"><img width="100" height="40" name="trustseal" alt="Privacy Seals" style="border: 0;" src="//dw26xg4lubooo.cloudfront.net/seals/privacy/652-mini.gif"></a></td>
+							<td><a name="trustlink" style="margin:1px" href="http://secure.trust-guard.com/business/652" rel="nofollow" target="_blank" onClick="var nonwin=navigator.appName!='Microsoft Internet Explorer'?'yes':'no'; window.open(this.href.replace(/https?/, 'https'),'welcome','location='+nonwin+',scrollbars=yes,width=517,height='+screen.availHeight+',menubar=no,toolbar=no'); return false;" oncontextmenu="var d = new Date(); alert('Copying Prohibited by Law - This image and all included logos are copyrighted by trust-guard \251 '+d.getFullYear()+'.'); return false;"><img width="100" height="40" name="trustseal" alt="Business Seals" style="border: 0;" src="//dw26xg4lubooo.cloudfront.net/seals/business/652-mini.gif"></a></td>
+						</tr></tbody></table>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="content">
+		<div class="facts group">
+			<div class="col span_2_of_3">
+				<ul id="facts">
+					<li class="wow bounceInLeft" data-wow-delay="0.2s">
+						<img src="../index3/images/v3/Fact1.png">
+						<h2>Easily cloak, protect, shorten, customize &amp; track your links</h2>
+						<h3>- uncrackable, short, user-friendly, high-converting links!</h3>
+						<p>Affiliate commissions thieves now have something to fear! Prevent them from stealing your affiliate commissions and get the full rewards of your promotional efforts. Attach a call-to-action to your links and share other people's content (articles, videos, offers, etc.) while driving traffic back to your own content. That's smart traffic generation!</p>
+					</li>
+					<li class="wow bounceInLeft" data-wow-delay="0.4s">
+						<img src="../index3/images/v3/Fact2.png">
+						<h2>Listbuild on auto-pilot</h2>
+						<h3>- build a massive downline virally!</h3>
+						<p>Build a huge downline with no effort and email it every few days to build a strong relationship with your contacts and promote any offer you want. List building has never been so easy!</p>
+					</li>
+					<li class="wow bounceInLeft" data-wow-delay="0.6s">
+						<img src="../index3/images/v3/Fact3.png">
+						<h2>Advertise your offers to a targeted audience</h2>
+						<h3>- guaranteed traffic increase!</h3>
+						<p>Advertise your offers with our text and banner ads and even get guaranteed visitors! Boost the quality and quantity of your traffic with our easy-to-use advertising tools and instantly increase your online income.</p>
+					</li>
+					<li class="wow bounceInLeft" data-wow-delay="0.8s">
+						<img src="../index3/images/v3/Fact4.png">
+						<h2>Send broadcast emails to our members</h2>
+						<h3>- cheap, high quality lead generation!</h3>
+						<p>Receive mailing credits simply by logging into your account daily, getting traffic to your links or referring active members to ViralURL! Optional upgrades to automatically receive between 300 and 2,300 mailing credits extra every day or to email 3,000 to 6,000 fellow marketers every 3 days and generate qualified leads at a very low cost.  A must-have for any internet or network marketer!</p>
+					</li>
+					<li class="wow bounceInLeft" data-wow-delay="1s">
+						<img src="../index3/images/v3/Fact5.png">
+						<h2>Make huge commissions on upgrades</h2>
+						<h3>- boost your online income!</h3>
+						<p>Earn above industry-average commissions on upgrade sales and skyrocket your online income! No matter if you promote the system or not, you can earn commissions virally!</p>
+					</li>
+				</ul>
+			</div>
+			<div class="col span_1_of_3">
+				<div id="vid_test">
+					<h2>Jason, Todd, Kerstin &amp; Faith explain why you should use ViralURL...</h2>
+					<div id="myCarousel1" class="carousel slide" data-ride="carousel" data-interval="false">
+						<div class="carousel-inner" role="listbox">
+							<div class="item active">
+								<h3>I Earned $2765.30 In Affiliate Commissions With A Viral Link Cloaking and Tracking Website...</h3>
+								<div class="video-container">  
+									<div id="player">
+										<iframe src="https://player.vimeo.com/video/335045251?autoplay=0&loop=0&title=0&byline=0&portrait=0" width="380" height="265" frameborder="0" webkitallow="autoplay; encrypted-media" allowfullscreen="" mozallow="autoplay; encrypted-media" allowfullscreen="" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div id="myCarousel2" class="carousel slide" data-ride="carousel" data-interval="false">
+						<div class="carousel-inner" role="listbox">
+							<div class="item active">
+								<h3>Far Better Then Any Other List Building Services...</h3>
+								<div class="video-container">
+									<div id="player">
+										<iframe src="https://player.vimeo.com/video/298887637?autoplay=0&loop=0&title=0&byline=0&portrait=0" width="380" height="265" frameborder="0" webkitallow="autoplay; encrypted-media" allowfullscreen="" mozallow="autoplay; encrypted-media" allowfullscreen="" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div id="myCarousel3" class="carousel slide" data-ride="carousel" data-interval="false">
+						<div class="carousel-inner" role="listbox">
+							<div class="item active">
+								<h3>ViralURL Protects Your Affiliate Marketing Commissions...</h3>
+								<div class="video-container">  
+									<div id="player">
+										<iframe src="https://player.vimeo.com/video/298890668?autoplay=0&loop=0&title=0&byline=0&portrait=0" width="380" height="265" frameborder="0" webkitallow="autoplay; encrypted-media" allowfullscreen="" mozallow="autoplay; encrypted-media" allowfullscreen="" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="voicecontainer">
+		<div class="container">
+			<div class="content">    
+				<div class="section group wow pulse">
+					<div class="col span_1_of_1"><h1>What members say about ViralURL...</h1></div>
+				</div>
+			</div>
+			<div class="wow pulse" align="center" data-wow-delay="0.2s"><img src="../images/MikePurvisTestimonial.jpg" style="margin:15px 0 15px;max-width:100%;-webkit-box-shadow: 2px 2px 10px 0px rgba(0,0,0,0.5);-moz-box-shadow: 2px 2px 10px 0px rgba(0,0,0,0.5);box-shadow: 2px 2px 10px 0px rgba(0,0,0,0.5);"></div>
+			<div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="false">
+				<ol class="carousel-indicators">
+					<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+					<li data-target="#myCarousel" data-slide-to="1"></li>
+					<li data-target="#myCarousel" data-slide-to="2"></li>
+					<li data-target="#myCarousel" data-slide-to="3"></li>
+				</ol>
+				<div class="carousel-inner" role="listbox">
+					<div class="item active">
+						<div id="voic_test">
+							<div class="header">
+								<div class="pic">
+									<img title="Saundra Meyer about ViralURL" src="../NewDesign/files/saundra_meyer.png">
+								</div>
+								<h3>... one of the most successful ways to meet new people...</h3>
+								<address>Saundra Meyer<br>Owner of Mobile Notary Public in Lancaster County, VA / USA</address>
+							</div>
+							<div class="cloud">
+								<p>Thank you, Frank and Colin! I have met some wonderful business partners with ViralURL!<br><br>I have found this to be one of the most successful ways to meet new people that are truly looking for success in their business(es). I enjoy that fact that I have been able to help so many more people achieve their goals because we have crossed paths through ViralURL.<br><br>Keep up the great work on your end! I appreciate everything you both have done for me and my business partners!</p>
+								<div class="mic"><iframe src="//theviralizer.com/cap/index.php?mp3=VU-SaundraMeyer.mp3&play=0&size=0.3" width="32" height="32" border="0" scrolling="no" allowTransparency="true" style="border:0"></iframe><span><img src="../index3/images/v3/mic2.png"></span></div>
+							</div> 
+						</div>
+						<div id="voic_test">
+							<div class="header">
+								<div class="pic">
+									<img title="David Blide about ViralURL" src="../NewDesign/files/david_blide.png" width="99" height="99">
+								</div>
+								<h3>When I was about to give up, this changed everyting for me...</h3>
+								<address>David Blide<br>from North Carolina, USA</address>
+							</div>
+							<div class="cloud">
+								<p>I am new to the e-business community and I had been struggling in my efforts to start a business. I tried many different programs but nothing seemed to work.<br><br>I actually stumbled across ViralURL while surfing. I was just about to give up on my e-business and this was the last program I was going to try.<br><br>The ad tracking tool was the first I tried and immediately I was able to see what was working and what wasn't. My business started to soar. The tools in this program are amazing and a 'MUST HAVE' for anyone who wants to be successful.<br><br>Thank you so much for creating this site. It is truly a blessing</p>
+								<div class="mic"><iframe src="//theviralizer.com/cap/index.php?mp3=VU-DavidBlide.mp3&play=0&size=0.3" width="32" height="32" border="0" scrolling="no" allowTransparency="true" style="border:0"></iframe><span><img src="../index3/images/v3/mic2.png"></span></div>
+							</div>
+						</div>
+					</div>
+					<div class="item">
+						<div id="voic_test" >
+							<div class="header">
+								<div class="pic">
+									<img title="Happy Riches about ViralURL" src="../NewDesign/files/happy_riches.png">
+								</div>
+								<h3>Absolutely brilliant!</h3>
+								<address>Happy Riches<br>from Wendouree, Victoria / Australia</address>
+							</div>
+							<div class="cloud">
+								<p>What I like about Frank Bauer's ViralURL.com is I can quickly cloack my affiliate links without having to buy a separate domain name for each link and the landing page looks like it is my own site, because Frank has provided the means to change the page title to reflect the name by which I have cloaked the link.<br><br>Absolutely brilliant!</p>
+							</div>
+						</div>
+						<div id="voic_test">
+							<div class="header">
+								<div class="pic">
+									<img title="Mark Call about ViralURL" src="../NewDesign/files/mark_call.png" width="99" height="99">
+								</div>
+								<h3>BOATLOADS of laser targeted TRAFFIC...</h3>
+								<address>Mark Call<br>Owner of InternetVideoPro.com</address>
+							</div>
+							<div class="cloud">
+								<p>WOW! What a concept!<br><br>I only wish I had thought of it...<br><br>I am now driving BOATLOADS of laser targeted TRAFFIC to my site.. All on AUTO-PILOT!<br><br>I have been an Internet Marketer for over 8 years now and own sevral successful sites. In all my years, no-one has been able to pull off such a simple system!<br><br>Thanks Colin and Frank</p>
+								<div class="mic"><iframe src="//theviralizer.com/cap/index.php?mp3=VU-MarkCall.mp3&play=0&size=0.3" width="32" height="32" border="0" scrolling="no" allowTransparency="true" style="border:0"></iframe><span><img src="../index3/images/v3/mic2.png"></span></div>
+							</div> 
+						</div>
+					</div>
+					<div class="item">
+						<div id="voic_test" style="padding: 0px 13px 0px 13px;">
+							<div class="header">
+								<div class="pic">
+									<img title="Nathan Gurley about ViralURL" src="../NewDesign/files/nathan_gurley.png" width="99" height="99">
+								</div>
+								<h3>I've never seen results like this...</h3>
+								<address>Nathan Gurley<br>from New Orleans / USA</address>
+							</div>
+							<div class="cloud">
+								<p>ViralURL has produced incredible results for my new campaign!<br><br>I cannot keep up with the leads and will certainly teach my group how to use it. I've never seen results like this; it's truly a one-stop-shop.<br><br>Thanks guys.</p>
+								<div class="mic"><iframe src="//theviralizer.com/cap/index.php?mp3=VU-NathanGurley.mp3&play=0&size=0.3" width="32" height="32" border="0" scrolling="no" allowTransparency="true" style="border:0"></iframe><span><img src="../index3/images/v3/mic2.png"></span></div>
+							</div>
+						</div>
+						<div id="voic_test">
+							<div class="header">
+								<div class="pic">
+									<img title="Chris Morris about ViralURL" src="../NewDesign/files/chris_morris.png" width="99" height="99">
+								</div>
+								<h3>Over $600 in commissions from one email!</h3>
+								<address>Chris Morris<br>owner of DiscoverCpanel.com</address>
+							</div>
+							<div class="cloud">
+								<p>ViralURL is awesome! I am very impressed with the service and I have made over $600 in commissions from one email!<br><br>You're doing a great service to everyone by allowing them to protect their affiliate links and also grow their lists automatically! This is one service I would recommend to anyone.<br><br>It doesn't matter if you are new to affiliate marketing or are a super affiliate, ViralURL can help you save and make money very easily!</p>
+								<div class="mic"><iframe src="//theviralizer.com/cap/index.php?mp3=VU-ChrisMorris.mp3&play=0&size=0.3" width="32" height="32" border="0" scrolling="no" allowTransparency="true" style="border:0"></iframe><span><img src="../index3/images/v3/mic2.png"></span></div>
+							</div>
+						</div>
+					</div>
+					<div class="item">
+						<div id="voic_test" style="padding: 0px 13px 0px 13px;">
+							<div class="header">
+								<div class="pic">
+									<img title="Martin Salter about ViralURL" src="../NewDesign/files/martin_salter.png" width="99" height="99">
+								</div>
+								<h3>2 effective requirements anyone needs to get started...</h3>
+								<address>Martin Salter<br>Owner of MartinSalter.net</address>
+							</div>
+							<div class="cloud">
+								<p>Frank and Colin...<br><br>ViralURL was a stroke of Genius.<br><br>You guys have combined 2 effective requirements anyone needs to get started...<br><br>1= List Building and 2=Tracking.<br><br>By combining both of these elements, a newbie (or an old hand :) can get results.<br><br>So far, our commissions have been good from using this as a day to day tool, without having to hard sell it to people. The natural use it has comes before anything else.<br><br>Job well done... Thanks.</p>
+							</div>
+						</div>
+						<div id="voic_test">
+							<div class="header">
+								<div class="pic">
+									<img title="David about ViralURL" src="../NewDesign/files/david.png" width="99" height="99">
+								</div>
+								<h3>... the biggest 'passive advertising' payment I have ever received.</h3>
+								<address>David<br>from DSB Marketing</address>
+							</div>
+							<div class="cloud">
+								<p>"Frank Bauer has just sent you $58.10 USD with PayPal"<br><br>What? What have those scammers thought up now stealing credibility by stealing and using a ViralURL name like that? I'm not due those types of commissions. So out of pure curiosity at who would have the nerve to write such a bogus headline on their marketing link I clicked on it and SURPRISE! ViralURL sent me cash!<br><br>WOW! I thought. That is the biggest 'passive advertising' payment I have ever received. Usually when I am trying to make a commission like that I am actively promoting a program but this one and the referral that triggered the sale both came to me when I was using ViralURL to cloak my other programs and generate free ad credits through the ViralURL network.<br><br>All I can say is thanks guys! That was a nice SURPRISE! And I may have to work in a more ViralURL focused way in the future in order to create more of them for both of us.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+					<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+					<span class="sr-only">Previous</span>
+				</a>
+				<a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+					<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+					<span class="sr-only">Next</span>
+				</a>
+			</div>
+		</div>
+		<div class="wow pulse" align="center" data-wow-delay="0.2s"><img src="../images/fb_testimonial.png" style="margin:15px 0 15px;max-width:100%;-webkit-box-shadow: 2px 2px 10px 0px rgba(0,0,0,0.1);-moz-box-shadow: 2px 2px 10px 0px rgba(0,0,0,0.1);box-shadow: 2px 2px 10px 0px rgba(0,0,0,0.1);"></div>
+	</div>
+	<div class="content">
+		<div class="section group wow pulse">
+			<div class="col span_1_of_1"><h1>WHY YOU ABSOLUTELY NEED YOUR OWN VIRALURL ACCOUNT</h1></div>
+		</div>
+		<div class="section group">
+			<div class="col span_2_of_3">
+				<div class="aff">
+					<h3 class="wow pulse">Protect your affiliate commissions against fraud</h3>
+					<p class="wow pulse"><b>You are getting RIPPED off!</b> Your hard work and marketing costs are being blown with customers ripping you off... Not anymore: <span class="hlight">ViralURL protects you</span> and ensures your affiliate links are never exposed. Stop leaving money on the table!</p>
+					<h3 class="wow pulse">Share content while driving traffic back to your site</h3>
+					<p class="wow pulse"><b>You're missing out on FREE traffic!</b> Everyone likes to share great content, right? Well, you can now take advantage of the power of word-of-mouth and social media by cleverly attaching a call-to-action to the links you share. With our smart traffic generation system, you can share other people's content (articles, videos, offers, etc.) while driving traffic back to your own content.</p>
+					<p class="wow pulse">Marketing is a very tough industry but if done right, is <span class="hlight">VERY profitable!</span> You ever wonder why some people make huge income online whilst other lose money? The ones making the money understand a few simple concepts and have the right systems in place. When promoting products or sharing content with <u>links shortened, cloaked, protected, tracked and customized with ViralURL</u>, the users clicks the link and <b>stats get recorded for you.</b> They see your call-to-action, click it and are shown any page you want. Also, I they like the system and join ViralURL, <b>they go in your downline!</b> <span class="hlight">ACT NOW</span> and ensure your affiliate links are never exposed to commission fraud!</p>
+					<h3 class="wow pulse">Powerful traffic and lead generation tools</h3>
+					<p class="wow pulse">ViralURL not only protects your commissions and helps you take advantage of the power of word-of-mouth and social media, but also gives you powerful tools to generate targeted traffic and qualified leads. With our system, it promotes itself and builds your <span class="hlight">downline on AUTO-PILOT!</span> All you need to do is to use ViralURL for your links. You can email your referrals and their referrals (down from <u>5 to 7 contact levels</u> deep) every 5 to 7 days!</p>
+					<p class="wow pulse">The advertising and mailing tools will help you generate traffic and leads in no time! Email <u>random members</u> every 1 to 3 days with one of the industry's most powerful system mailer! <span href="#myModal" data-toggle="modal">JOIN NOW</span> before you realize what you're missing out on! It is time to turn your computer into a <b>profit making MACHINE</b> and secure your financial future! If you have any questions, feel free to <a href="https://Reply2Frank.com/" target="_blank">contact us</a> any time. What are you waiting for? <a href="#myModal" data-toggle="modal">Simply enter your email address to get started!</a></p>
+				</div>
+			</div>
+			<div class="col span_1_of_3">
+				<div id="voic_test2" style="display:block;">
+					<div class="header">
+						<div class="pic">
+							<img title="AJ Wilson about ViralUrl" src="../NewDesign/files/aj_wilson.png">
+						</div>
+						<h3>Thanks For Adding This New Membership Level</h3>
+						<address>AJ Wilson<br>CEO of ViralCashFusion.com</address>
+					</div>
+					<div class="cloud">
+						<p>Hey Guys,<br><br>Just want to thank you for letting me know about ViralURL.<br><br>In a couple of minutes I got the ViralURL system running on Auto-Pilot! Now it's promoting itself, promoting my sites and building my list... oh, AND the $360 Dollars from the ViralURL commissions. Lucky I went GOLD otherwise I would've only made a couple less dollars!<br><br>But I gotta be honest with you... getting all those emails was not that cool, so thanks for adding this new membership level and I am sure your members will love it!<br><br>Sensational system and I can see it's only going to get BIGGER. Love the new Banner advertising system I can use too! Keep up the great work... and DON'T STOP building this thing.<br><br>It's working fantastic for me! Thanks again.</p>
+						<div class="mic"><iframe src="//theviralizer.com/cap/index.php?mp3=VU-AJWilson.mp3&play=0&size=0.3" width="32" height="32" border="0" scrolling="no" allowTransparency="true" style="border:0;background-image:none"></iframe><span><img src="../index3/images/v3/mic2.png"></span></div>
+					</div>
+				</div>
+			</div>        
+		</div>
+	</div>
+	<div class="formcontainer" style="margin-bottom:-1px">
+		<div class="content">
+			<div class="section group">
+				<div class="col span_2_of_3">
+					<h1 href="#myModal" data-toggle="modal" class="wow bounceInLeft">GET STARTED TODAY</h1>
+					<div class="button wow bounceInRight" href="#myModal" data-toggle="modal">
+						<a class="btn-leadstyle-link" style="text-decoration:initial">Click Here To Join Free</a>
+					</div>
+				</div>
+				<div class="col span_1_of_3 wow rotateInDownRight">
+					<div class="lock">
+						<img src="../index3/images/v3/lock.png">
+					</div>    
+					<div class="sec2">
+						<table><tbody><tr>
+							<td><a name="trustlink" style="margin:1px 1px 1px 2px" href="http://secure.trust-guard.com/security/652" rel="nofollow" target="_blank" onClick="var nonwin=navigator.appName!='Microsoft Internet Explorer'?'yes':'no'; window.open(this.href.replace(/https?/, 'https'),'welcome','location='+nonwin+',scrollbars=yes,width=517,height='+screen.availHeight+',menubar=no,toolbar=no'); return false;" oncontextmenu="var d = new Date(); alert('Copying Prohibited by Law - This image and all included logos are copyrighted by trust-guard \251 '+d.getFullYear()+'.'); return false;"><img width="100" height="40" name="trustseal" alt="Security Seals" style="border: 0;" src="//dw26xg4lubooo.cloudfront.net/seals/security/652-mini.gif"></a></td>
+							<td><a name="trustlink" style="margin:1px" href="http://secure.trust-guard.com/privacy/652" rel="nofollow" target="_blank" onClick="var nonwin=navigator.appName!='Microsoft Internet Explorer'?'yes':'no'; window.open(this.href.replace(/https?/, 'https'),'welcome','location='+nonwin+',scrollbars=yes,width=517,height='+screen.availHeight+',menubar=no,toolbar=no'); return false;" oncontextmenu="var d = new Date(); alert('Copying Prohibited by Law - This image and all included logos are copyrighted by trust-guard \251 '+d.getFullYear()+'.'); return false;"><img width="100" height="40" name="trustseal" alt="Privacy Seals" style="border: 0;" src="//dw26xg4lubooo.cloudfront.net/seals/privacy/652-mini.gif"></a></td>
+							<td><a name="trustlink" style="margin:1px" href="http://secure.trust-guard.com/business/652" rel="nofollow" target="_blank" onClick="var nonwin=navigator.appName!='Microsoft Internet Explorer'?'yes':'no'; window.open(this.href.replace(/https?/, 'https'),'welcome','location='+nonwin+',scrollbars=yes,width=517,height='+screen.availHeight+',menubar=no,toolbar=no'); return false;" oncontextmenu="var d = new Date(); alert('Copying Prohibited by Law - This image and all included logos are copyrighted by trust-guard \251 '+d.getFullYear()+'.'); return false;"><img width="100" height="40" name="trustseal" alt="Business Seals" style="border: 0;" src="//dw26xg4lubooo.cloudfront.net/seals/business/652-mini.gif"></a></td>
+						</tr></tbody></table>
+					</div>
+				</div>
+			</div>
+			<div class="section group">
+				<div class="col span_2_of_3" style="margin:0">
+					<div class="people">
+						<img src="../index3/images/v3/ViralPeople.png">
+					</div>
+					<div class="people3">
+						<img src="../index3/images/v3/ViralPeople3.png">
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="footercontainer">    
+		<div class="content">
+			<div class="section group">
+				<div class="col span_1_of_1">
+					<ul id="top_nav">
+						<div class="logo" style="white-space:nowrap"><a href="https://viralurl.com"><img src="../index3/images/v3/ViralUrl-Logo-v3.png" style="position:relative;z-index:1000"></a><span class="version">3.10.000</span><span class="updated">Updated for 2021</span></div>
+					</ul>
+				</div>
+			</div>
+			<div class="section group">
+				<div class="col span_2_of_4">
+					<h1 class="left">AN UNRIVALED ALL-IN-ONE TOOL</h1>
+				</div>
+				<div class="col span_2_of_4">
+					<h1 class="right">THAT INSTANTLY AUTOMATES YOUR INCOME</h1>
+				</div>
+			</div>
+			<div class="section group">
+				<div class="col span_1_of_1">
+					<ul id="nav_footer">
+						<li><a href="https://Reply2Frank.com" target="_blank" nofollow="">Get Support</a></li>
+						<li><a href="https://Reply2Frank.com" target="_blank" nofollow="">Report Abuse</a></li>
+						<li><a href="#myModal2" data-toggle="modal" onClick="$('#privacy-iframe').attr('src','https://viralurl.com/privacy.php');">Privacy Policy</a></li>
+						<li><a href="#myModal3" data-toggle="modal" onClick="$('#terms-iframe').attr('src','https://viralurl.com/terms.php');">Terms &amp; Conditions</a></li>
+						<li><a href="#myModal4" data-toggle="modal" onClick="$('#about-iframe').attr('src','https://viralurl.com/aboutus.php');">About Us</a></li>
+						<li><a href="http://ViralURL.de" target="_blank" title="Want to target the 180 Million German Market?  Get a ViralURL.de account today!">Want To Advertise in German?</a></li>
+						<li style="border: none;"><a href="#myModal5" data-toggle="modal" onClick="$('#affiliate-iframe').attr('src','https://viralurl.com/affiliate-info.php');">Affiliates</a><!--  --></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+					<h1 style="font-size:19px">SIMPLY ENTER YOUR EMAIL ADDRESS BELOW TO JOIN FOR FREE</h1>
+					<h2 class="modal-title" id="myModalLabel">...and Instantly Harness the Power of ViralURL!</h2>
+				</div>
+				<div class="modal-body">
+					<iframe style="background-image:none" id="register-iframe" src="" width="100%" height="420px" frameborder="0"></iframe>
+				</div>
+				<div class="modal-footer">
+					<div class="form_privacypolicy" align="center">
+						<a href="#myModal2" data-toggle="modal" onClick="$('#privacy-iframe').attr('src','https://viralurl.com/privacy.php');">Privacy Policy</a>
+						<p style="color:#999; margin-bottom:0">We hate spam as much as you do!</p>
+					</div>
+				</div>
+			</div>
+			<div class="modal-footer"></div>
+		</div>
+	</div>
+    <div class="modal fade" id="myModal2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+				</div>
+				<div class="modal-body">
+    				<iframe id="privacy-iframe" src="" width="100%" height="90%" frameborder="0"></iframe>
+				</div>
+			</div>
+			<div class="modal-footer"></div>
+		</div>
+    </div>
+    <div class="modal fade" id="myModal3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+				</div>
+				<div class="modal-body">
+    				<iframe id="terms-iframe" src="" width="100%" height="90%" frameborder="0"></iframe>
+				</div>
+			</div>
+			<div class="modal-footer"></div>
+		</div>
+    </div>
+    <div class="modal fade" id="myModal4" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+				</div>
+				<div class="modal-body">
+    				<iframe id="about-iframe" src="" width="100%" height="80%" frameborder="0"></iframe>
+				</div>
+			</div>
+			<div class="modal-footer"></div>
+		</div>
+    </div>
+    <div class="modal fade" id="myModal5" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+				</div>
+				<div class="modal-body">
+    				<iframe id="affiliate-iframe" src="" width="100%" height="310" frameborder="0"></iframe>
+				</div>
+			</div>
+			<div class="modal-footer"></div>
+		</div>
+    </div>
+	<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1209286-5', 'auto');
+ga('send', 'pageview');
+	</script>
+	<!--Start of Tawk.to Script-->
+	<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5d3e89d79b94cd38bbe9c22e/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+	</script>
+	<!--End of Tawk.to Script-->
+	<script src="js/load.js"></script>
+	<script>!function(){function e(){var e=((new Date).getTime(),document.createElement("script"));e.type="text/javascript",e.async=!0,e.setAttribute("embed-id","c3350f0e-babb-4079-97b8-7a03bba65cb4"),e.src="https://embed.adabundle.com/embed-scripts/c3350f0e-babb-4079-97b8-7a03bba65cb4";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)}var t=window;t.attachEvent?t.attachEvent("onload",e):t.addEventListener("load",e,!1)}();</script>
+</body>
+</html>
